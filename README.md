@@ -1,4 +1,4 @@
-# CHHS — Diagnostic, Pilotage et Amélioration de la Performance
+# CHHS - Diagnostic, Pilotage et Amélioration de la Performance
 
 *Le Centre Hospitalier Horizon Santé (CHHS) est un groupe de santé privé fictif, construit à des fins pédagogiques et professionnelles. Toutes les données (financières, RH, qualité, comptables) sont fictives.*
 
