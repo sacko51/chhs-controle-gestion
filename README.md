@@ -76,5 +76,5 @@ Excel avancé (formules liées, mise en forme conditionnelle) · Power BI (modè
 ## Auteur
 
 **Bakary SACKO**
-Master 2 Contrôle de Gestion et Audit Organisationnel — URCA, Reims
+Master 2 Contrôle de Gestion et Audit Organisationnel - URCA, Reims
 [sacko_bakary@outlook.com](mailto:sacko_bakary@outlook.com)
