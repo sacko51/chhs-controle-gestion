@@ -67,7 +67,7 @@ chhs-controle-gestion/
 
 ## Compétences mobilisées
 
-Analyse financière · comptabilité analytique · contrôle budgétaire et analyse des écarts · construction de tableaux de bord et définition de KPI · modélisation de données en étoile · écriture de mesures DAX et conception de dashboard Power BI · audit interne et cartographie des risques (référentiel COSO) · modélisation prévisionnelle multi-scénarios et analyse de sensibilité · construction d'un plan d'action priorisé (matrice impact/effort) · Excel avancé (modèles multi-onglets, contrôle de cohérence inter-étapes) · rédaction de notes professionnelles à destination d'une Direction.
+Analyse financière, comptabilité analytique, contrôle budgétaire et analyse des écarts, construction de tableaux de bord et définition de KPI, modélisation de données en étoile, écriture de mesures DAX et conception de dashboard Power BI, audit interne et cartographie des risques (référentiel COSO), modélisation prévisionnelle multi-scénarios et analyse de sensibilité, construction d'un plan d'action priorisé (matrice impact/effort), Excel avancé (modèles multi-onglets, contrôle de cohérence inter-étapes), rédaction de notes professionnelles à destination d'une Direction.
 
 ## Outils utilisés
 
