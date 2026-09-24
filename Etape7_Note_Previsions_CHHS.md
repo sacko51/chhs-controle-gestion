@@ -56,7 +56,7 @@ Le compte de résultat N+1 est projeté à partir du CA réalisé N (42 500 k€
 3. Prioriser les actions à effet de levier élevé identifiées par la sensibilité (masse salariale, achats) plutôt qu'une stratégie de seule croissance de volume, moins rentable à la marge.
 
 ## I. Compétences mobilisées
-Construction d'un modèle prévisionnel multi-scénarios · analyse de sensibilité · articulation entre hypothèses de gestion et impact financier · aide à la décision budgétaire.
+Construction d'un modèle prévisionnel multi-scénarios, analyse de sensibilité, articulation entre hypothèses de gestion et impact financier, aide à la décision budgétaire.
 
 ## J. Livrables
 - **Excel** : `Etape7_Previsions_Scenarios_CHHS.xlsx` (hypothèses, compte de résultat prévisionnel par scénario, trésorerie, sensibilité)
