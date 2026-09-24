@@ -32,7 +32,7 @@ Le choix des visuels par page découle directement des constats des étapes pré
 2. Programmer un rafraîchissement mensuel aligné sur la clôture comptable, pour que le dashboard reste la source de référence unique du reporting.
 
 ## I. Compétences mobilisées
-Modélisation de données en étoile · écriture de mesures DAX · conception de dashboard orienté décision · articulation entre besoin métier et choix de visualisation.
+Modélisation de données en étoile, écriture de mesures DAX, conception de dashboard orienté décision, articulation entre besoin métier et choix de visualisation.
 
 ## J. Livrables
 - **Excel** (guide de construction) : `Etape5_PowerBI_Guide_CHHS.xlsx` (modèle de données, mesures DAX, spécification des 4 pages)
