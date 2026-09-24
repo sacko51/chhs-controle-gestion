@@ -28,7 +28,7 @@ Doter la Direction d'un tableau de bord synthétique couvrant les quatre dimensi
 3. Suivre le volume du bloc opératoire mensuellement avec un seuil d'alerte dès -3 % vs N-1, pour anticiper la poursuite de son déclin.
 
 ## I. Compétences mobilisées
-Construction d'un tableau de bord multidimensionnel · définition de KPI (formule, source, seuil) · analyse croisée financière/RH/qualité/activité · priorisation d'indicateurs d'alerte précoce.
+Construction d'un tableau de bord multidimensionnel, définition de KPI (formule, source, seuil), analyse croisée financière/RH/qualité/activité, priorisation d'indicateurs d'alerte précoce.
 
 ## J. Livrables
 - **Excel** : `Etape4_KPI_CHHS.xlsx` (catalogue de 18 KPI + valeurs N-2/N-1/N par dimension)
