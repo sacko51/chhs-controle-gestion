@@ -58,7 +58,7 @@ Les tests détectent un volume cohérent avec les anomalies effectivement prése
 
 ## I. Compétences mobilisées
 
-Audit interne · construction de tests de détection d'anomalies · cartographie des risques et matrice de criticité · évaluation du contrôle interne selon le référentiel COSO · esprit critique sur la fiabilité d'une donnée avant son utilisation en pilotage.
+Audit interne, construction de tests de détection d'anomalies, cartographie des risques et matrice de criticité, évaluation du contrôle interne selon le référentiel COSO, esprit critique sur la fiabilité d'une donnée avant son utilisation en pilotage.
 
 ## J. Livrables produits
 
