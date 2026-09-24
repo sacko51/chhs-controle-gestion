@@ -85,7 +85,7 @@ Le détail complet figure dans `Etape3_Budget_Ecarts_CHHS.xlsx` (onglets 01_Budg
 
 ## I. Compétences mobilisées
 
-Construction et suivi budgétaire · analyse des écarts (volume / prix / coût unitaire) · définition de seuils d'alerte · priorisation des zones de risque financier · Excel avancé (mise en forme conditionnelle, décomposition d'écarts).
+Construction et suivi budgétaire, analyse des écarts (volume / prix / coût unitaire), définition de seuils d'alerte, priorisation des zones de risque financier, Excel avancé (mise en forme conditionnelle, décomposition d'écarts).
 
 ## J. Livrables produits
 
