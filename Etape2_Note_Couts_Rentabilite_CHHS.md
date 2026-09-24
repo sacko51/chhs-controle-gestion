@@ -77,7 +77,7 @@ La somme des marges par activité (1 826 k€) est strictement égale au résult
 
 ## I. Compétences mobilisées
 
-Comptabilité analytique · calcul de coûts complets par activité · choix et justification de clés de répartition · analyse de rentabilité par activité · détection d'activités destructrices de valeur · Excel avancé (modèle multi-onglets avec contrôle de cohérence inter-étapes).
+Comptabilité analytique, calcul de coûts complets par activité, choix et justification de clés de répartition, analyse de rentabilité par activité, détection d'activités destructrices de valeur, Excel avancé (modèle multi-onglets avec contrôle de cohérence inter-étapes).
 
 ## J. Livrables produits
 
