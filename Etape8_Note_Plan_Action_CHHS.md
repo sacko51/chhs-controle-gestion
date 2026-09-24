@@ -14,9 +14,9 @@ Chaque action est reliée explicitement au diagnostic qui l'a fait émerger (Ét
 
 | Axe | Action prioritaire (P1) | Gain potentiel | Délai |
 |---|---|---:|---|
-| Activité et offre | Revoir le bloc opératoire (panier d'actes, salles) | ~500 k€/an | 6 mois |
-| Coûts et productivité | Plan de fidélisation RH (turnover, absentéisme) | ~1 000 k€/an | 12 mois |
-| Coûts et productivité | Renégocier les contrats fournisseurs | ~350 k€/an | 6 mois |
+| Activité et offre | Revoir le bloc opératoire (panier d'actes, salles) | 500 k€/an | 6 mois |
+| Coûts et productivité | Plan de fidélisation RH (turnover, absentéisme) | 1 000 k€/an | 12 mois |
+| Coûts et productivité | Renégocier les contrats fournisseurs | 350 k€/an | 6 mois |
 | Reporting et contrôle interne | Référence de facture obligatoire | Réduction du risque de fraude | 3 mois |
 | Reporting et contrôle interne | Rapprochement automatisé activité/facturation | Fiabilisation du CA | 6 mois |
 
@@ -49,7 +49,7 @@ Le détail des 11 actions (problème, responsable, coût, KPI, délai) figure da
 3. Retenir un objectif budgétaire N+1 réaliste entre le scénario central (2 067 k€) et le plafond théorique du plan d'action (3 676 k€), en fonction du rythme de mise en œuvre effectivement tenable.
 
 ## I. Compétences mobilisées
-Construction d'un plan d'action priorisé · matrice impact/effort · chiffrage financier d'un plan d'amélioration · articulation entre diagnostic, décision et pilotage opérationnel.
+Construction d'un plan d'action priorisé, matrice impact/effort, chiffrage financier d'un plan d'amélioration, articulation entre diagnostic, décision et pilotage opérationnel.
 
 ## J. Livrables
 - **Excel** : `Etape8_Plan_Action_CHHS.xlsx` (matrice des 11 actions, matrice impact × effort, chiffrage global)
