@@ -92,7 +92,7 @@ Le détail complet, avec formules et données du bilan, figure dans le classeur 
 
 ## I. Compétences mobilisées
 
-Analyse financière · lecture et construction du compte de résultat et du bilan · calcul et interprétation de ratios (rentabilité, structure financière, liquidité) · diagnostic et rédaction d'une note à destination d'une Direction financière · Excel avancé (modèle financier avec formules liées).
+Analyse financière, lecture et construction du compte de résultat et du bilan, calcul et interprétation de ratios (rentabilité, structure financière, liquidité), diagnostic et rédaction d'une note à destination d'une Direction financière, Excel avancé (modèle financier avec formules liées).
 
 ## J. Livrables produits
 
