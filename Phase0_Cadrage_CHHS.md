@@ -200,7 +200,7 @@ Le projet repose sur **un modèle de données unique** (règle de source unique)
 
 ## 11. Compétences CGAO mobilisées
 
-Contrôle de gestion · comptabilité analytique · analyse financière · contrôle budgétaire · analyse des écarts · reporting · Excel avancé · Power Query · Power BI · DAX · audit interne · contrôle interne · cartographie des risques · prévisions financières · analyse de scénarios · aide à la décision · recommandations de performance.
+Contrôle de gestion, comptabilité analytique, analyse financière, contrôle budgétaire, analyse des écarts, reporting, Excel avancé,  Power Query, Power BI,  DAX, audit interne, contrôle interne, cartographie des risques, prévisions financières, analyse de scénarios, aide à la décision, recommandations de performance.
 
 ---
 
